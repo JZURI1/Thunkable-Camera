@@ -1,0 +1,297 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": []
+                }
+            },
+            "assets": {
+                "65b810972b099480daa14235": {
+                    "externalStorageType": "GCS",
+                    "_id": "65b810972b099480daa14235",
+                    "size": "24123",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "305soft-high-resolution-color-logo.png",
+                    "backendURI": "/project/65b27fa058f5226d1aa66b28/getasset/65b810972b099480daa14235",
+                    "name": "305soft-high-resolution-color-logo.png",
+                    "externalName": "users/659b45b823fcde0c897f736b/projects/65b27fa058f5226d1aa66b28/assets/65b810972b099480daa14235",
+                    "createdAt": "2024-01-29T20:54:47.758Z",
+                    "updatedAt": "2024-01-29T20:54:47.758Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/659b45b823fcde0c897f736b/projects/65b27fa058f5226d1aa66b28/assets/65b810972b099480daa14235?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240201%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240201T164627Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b4a9899dcd3ac2c08deda52bc42594a64487cfc4aabff56fc32d61cd9cff270b8e08aa80377c90f19f05496757bff2c831833f9f8e08a1a429bbcdb847e949b130981e123c118ca47de1722fcf42a1190c613f6e7c59a53ac641d084047baa22f314c9286a8a85f3056b731d10b8612dcf7663646b1278ac5944cf4edbc63b640e73617ec39cc2f07a5d2a5182da2c431f5e9d1bbaa06d653c0dc105517d349aa761b2614353cd4bee9569a5798282f93e574e8c918c420d61c4df5f844f958c9ddc4754d9aba7b85ce852b86033e6bd3a69922fb8f756a0b63c9330ae793fa7179d0584c0b6be3bbc8600dc196dab8f4faeca4432ad2789a1a85ae1de391712",
+                    "signedUrlExpirationTime": 1706978787212
+                },
+                "65b810a455e9bb778613f4a7": {
+                    "externalStorageType": "GCS",
+                    "_id": "65b810a455e9bb778613f4a7",
+                    "size": "53612",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
+                    "backendURI": "/project/65b27fa058f5226d1aa66b28/getasset/65b810a455e9bb778613f4a7",
+                    "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
+                    "externalName": "users/659b45b823fcde0c897f736b/projects/65b27fa058f5226d1aa66b28/assets/65b810a455e9bb778613f4a7",
+                    "createdAt": "2024-01-29T20:55:00.806Z",
+                    "updatedAt": "2024-01-29T20:55:00.806Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/659b45b823fcde0c897f736b/projects/65b27fa058f5226d1aa66b28/assets/65b810a455e9bb778613f4a7?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240201%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240201T164627Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3c4af9f644799f6dcc84ffa9d549d0b6e5dd805a4252d7c8219c333059d0cf493071d3d6055c71da8635a43e2cd0f796d351d6533e8cb4618981c37fc747abebed2f2af69fba2f8d63714500c554971134f8df12ceaed96e607d1085979d83e0d0b3ce01ac487f6e74938530883efc8ed5d5902ea78b244deddc1fea0e802ed8e3fe45cdbaf9516c7ba31a4337ea128d683b78cc9c8a4db2b14de2ee8072a2f3d27015de4e53390ef8a6566c7bac7fe2ba7ea25a45d5e0059586c4b3265f8acf1ba6a374eecda16ec89c54998204b5aa2c203bccb7bff6c823ab638ccaadb8756501245e627d7cc935a36ae4e1bd23c650cf00dd3d1ecbb3c3797eada1b568da",
+                    "signedUrlExpirationTime": 1706978787215
+                },
+                "65b810e955e9bb77861400cb": {
+                    "externalStorageType": "GCS",
+                    "_id": "65b810e955e9bb77861400cb",
+                    "size": "53614",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "305soft-high-resolution-logo-color-on-transparent-background.png",
+                    "backendURI": "/project/65b27fa058f5226d1aa66b28/getasset/65b810e955e9bb77861400cb",
+                    "name": "305soft-high-resolution-logo-color-on-transparent-background.png",
+                    "externalName": "users/659b45b823fcde0c897f736b/projects/65b27fa058f5226d1aa66b28/assets/65b810e955e9bb77861400cb",
+                    "createdAt": "2024-01-29T20:56:10.063Z",
+                    "updatedAt": "2024-01-29T20:56:10.063Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/659b45b823fcde0c897f736b/projects/65b27fa058f5226d1aa66b28/assets/65b810e955e9bb77861400cb?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240201%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240201T164627Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=607740d15ca2d8bc323a468248b26afafe6995003e1c44b32ebce6df843d71c677aaae9fb351fbc43e689b36bdba556ffc65c78730263709dfd27f364650e74b5ece4b5460384a5b14c54bd4b306ceed19c00b440765d86c9a635d3c8c37246591dbc4934f005e152946d8b58ed6ba09b271aa0ffef3a1438710cb600486ea238f86f20b5796c59ef580c6b3d1433a6fdf75fe141497467c27beeb4b8ae7585a6bfb5b714cd7231e38601edc7b93333f800775f588cf276da2d4d205c981c8a223d7ae6e0fac44eb0911b49ab113762355cffe1fcfff7e87d75cb985cbd2edc1ffd109fa2d1f189126ca44b812368f42ed72427052e27a39b5ced45c2c68a225",
+                    "signedUrlExpirationTime": 1706978787221
+                }
+            },
+            "backendUpgradeVersion": 24,
+            "blockly": {
+                "6fb61274-86b6-4efb-b230-73019771a40b": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [
+                            "android.permission.CAMERA"
+                        ],
+                        "ios": [
+                            {
+                                "name": "NSCameraUsageDescription",
+                                "label": "Camera",
+                                "hint": "Describe why your app uses the camera."
+                            },
+                            {
+                                "name": "NSPhotoLibraryUsageDescription",
+                                "label": "Photos",
+                                "hint": "Describe why your app uses photos."
+                            }
+                        ]
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "e11a87c1-d1ce-415e-b147-8fd5ced51ee9": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [
+                            "android.permission.CAMERA",
+                            "android.permission.RECORD_AUDIO"
+                        ],
+                        "ios": [
+                            {
+                                "name": "NSCameraUsageDescription",
+                                "label": "Camera",
+                                "hint": "Describe why your app uses the camera."
+                            },
+                            {
+                                "name": "NSMicrophoneUsageDescription",
+                                "label": "Microphone",
+                                "hint": "Describe why your app uses the microphone."
+                            }
+                        ]
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
+            },
+            "categories": [],
+            "components": {
+                "children": [
+                    {
+                        "type": "Bottom Tab Navigator",
+                        "translatedName": "Bottom Tab Navigator",
+                        "reactType": "BottomTabNavigator",
+                        "properties": {
+                            "showLabelIcon": "showLabelAndIcon",
+                            "TabNavigationOptions": {
+                                "tabBarVisible": true
+                            },
+                            "TabNavigatorIcon": {},
+                            "navigationOptions": {
+                                "tabBarVisible": true
+                            },
+                            "tabNavigationOptions": {}
+                        },
+                        "children": [
+                            {
+                                "id": "88fd8945-7cba-4b12-bab0-fc517feeb289"
+                            },
+                            {
+                                "id": "6fb61274-86b6-4efb-b230-73019771a40b"
+                            },
+                            {
+                                "id": "e11a87c1-d1ce-415e-b147-8fd5ced51ee9"
+                            }
+                        ],
+                        "id": "9c32d902-837a-4d0a-88fc-42b466765ec1",
+                        "thunkableVersion": 443,
+                        "name": "Bottom_Tab_Navigator1"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": "https://x.thunkable.com/project/65b27fa058f5226d1aa66b28/getasset/65b7a5beb577f9a3d6adb8ed",
+            "projectName": "Javon\u2019s Camera App",
+            "settings": {
+                "teamId": null,
+                "appName": "Javon's Camera App",
+                "icon": {
+                    "externalStorageType": "GCS",
+                    "_id": "65b7a5beb577f9a3d6adb8ed",
+                    "size": "24123",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "305soft-high-resolution-color-logo.png",
+                    "backendURI": "/project/65b27fa058f5226d1aa66b28/getasset/65b7a5beb577f9a3d6adb8ed",
+                    "name": "305soft-high-resolution-color-logo.png",
+                    "externalName": "users/659b45b823fcde0c897f736b/projects/65b27fa058f5226d1aa66b28/assets/65b7a5beb577f9a3d6adb8ed",
+                    "createdAt": "2024-01-29T13:18:54.701Z",
+                    "updatedAt": "2024-01-29T13:18:54.701Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/659b45b823fcde0c897f736b/projects/65b27fa058f5226d1aa66b28/assets/65b7a5beb577f9a3d6adb8ed?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T131854Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b1864ecef7de4191844f6be568b91511e6f685bfc0df389aa1373ba96e95fc129ea70dd9cb1db5ca7c6b8cf1c2a3ed94365891e232561cbf73b8e117fe3c5001d6ec92bba7efbfdf8a765d0217461ac63906b2bf801b60ff1fb88a7313ba2cc0093b37987e9130ab49711c93ae6b0cf8b81464a4d89e725215eeaa20cac6a85f0b5a3636003e561c99692d18e575277a029983bbe78c3bc93264a243a172bcf025523d687d1997c5b1d6653b524269b8045a72bb231d574921850c5615ccd81e0c1edc294328fcbe60d829447081024368a063afd25ae3a733231a312a4062e7db06a5b99b1aa09f9a9e36b90db3538643c9aea0189583bae1f9bc61e3763026",
+                    "signedUrlExpirationTime": 1706707134768
+                },
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": null,
+                "firebaseDatabaseURL": null,
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSCameraUsageDescription": "",
+                            "NSMicrophoneUsageDescription": ""
+                        }
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": "Javon's Camera App",
+                "icon": {
+                    "externalStorageType": "GCS",
+                    "_id": "65b7a5beb577f9a3d6adb8ed",
+                    "size": "24123",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "305soft-high-resolution-color-logo.png",
+                    "backendURI": "/project/65b27fa058f5226d1aa66b28/getasset/65b7a5beb577f9a3d6adb8ed",
+                    "name": "305soft-high-resolution-color-logo.png",
+                    "externalName": "users/659b45b823fcde0c897f736b/projects/65b27fa058f5226d1aa66b28/assets/65b7a5beb577f9a3d6adb8ed",
+                    "createdAt": "2024-01-29T13:18:54.701Z",
+                    "updatedAt": "2024-01-29T13:18:54.701Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/659b45b823fcde0c897f736b/projects/65b27fa058f5226d1aa66b28/assets/65b7a5beb577f9a3d6adb8ed?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T131854Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b1864ecef7de4191844f6be568b91511e6f685bfc0df389aa1373ba96e95fc129ea70dd9cb1db5ca7c6b8cf1c2a3ed94365891e232561cbf73b8e117fe3c5001d6ec92bba7efbfdf8a765d0217461ac63906b2bf801b60ff1fb88a7313ba2cc0093b37987e9130ab49711c93ae6b0cf8b81464a4d89e725215eeaa20cac6a85f0b5a3636003e561c99692d18e575277a029983bbe78c3bc93264a243a172bcf025523d687d1997c5b1d6653b524269b8045a72bb231d574921850c5615ccd81e0c1edc294328fcbe60d829447081024368a063afd25ae3a733231a312a4062e7db06a5b99b1aa09f9a9e36b90db3538643c9aea0189583bae1f9bc61e3763026",
+                    "signedUrlExpirationTime": 1706707134768
+                },
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": null,
+                "firebaseDatabaseURL": null,
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSCameraUsageDescription": "",
+                            "NSMicrophoneUsageDescription": ""
+                        }
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "0",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {},
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
